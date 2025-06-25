@@ -1,0 +1,40 @@
+Airport Name,City Served,Province,District,IATA,ICAO,Type,Classification,Operator
+Don Mueang International Airport,"Bangkok Metropolitan Region",Bangkok,Don Mueang,DMK,VTBD,International,Primary,AOT
+Suvarnabhumi International Airport,"Bangkok Metropolitan Region",Samut Prakan,Bang Phli,BKK,VTBS,International,Primary,AOT
+Chiang Mai International Airport,"Chiang Mai, Lamphun, Lampang",Chiang Mai,Mueang Chiang Mai,CNX,VTCC,International,Secondary,AOT
+Mae Fah Luang - Chiang Rai International Airport,"Chiang Rai",Chiang Rai,Mueang Chiang Rai,CEI,VTCT,International,Regional,AOT
+Krabi International Airport,"Krabi",Krabi,Nuea Khlong,KBV,VTSG,International,Regional,DOA
+Phuket International Airport,"Phuket",Phuket,Thalang,HKT,VTSP,International,Secondary,AOT
+U-Tapao International Airport,"Chonburi, Pattaya, Rayong",Rayong,Ban Chang,UTP,VTBU,International,Local,RTNV
+Hat Yai International Airport,"Hat Yai",Songkhla,Khlong Hoi Khong,HDY,VTSS,International,Regional,AOT
+Samui International Airport,"Koh Samui",Surat Thani,Koh Samui,USM,VTSM,International,Regional,BA
+Surat Thani International Airport,"Surat Thani",Surat Thani,Phunphin,URT,VTSB,International,Regional,DOA
+Udon Thani International Airport,"Udon Thani",Udon Thani,Mueang Udon Thani,UTH,VTUD,International,Regional,DOA
+Betong Airport,"Betong, Yala",Yala,Betong,BTZ,VTSY,Domestic,Local,DOA
+Buriram Airport,"Buriram, Surin",Buriram,Satuek,BFV,VTUO,Domestic,Local,DOA
+Chumphon Airport,"Chumphon",Chumphon,Pathio,CJM,VTSE,Domestic,Local,DOA
+Hua Hin Airport,"Hua Hin",Prachuap Khiri Khan,Hua Hin,HHQ,VTPH,Domestic,Local,DOA
+Khon Kaen Airport,"Khon Kaen",Khon Kaen,Mueang Khon Kaen,KKC,VTUK,Domestic,Regional,DOA
+Lampang Airport,"Lampang",Lampang,Mueang Lampang,LPT,VTCL,Domestic,Local,DOA
+Loei Airport,"Loei",Loei,Mueang Loei,LOE,VTUL,Domestic,Local,DOA
+Mae Hong Son Airport,"Mae Hong Son",Mae Hong Son,Mueang Mae Hong Son,HGN,VTCH,Domestic,Local,DOA
+Mae Sariang Airport,"Mae Sariang",Mae Hong Son,Mae Sariang,-,VTCS,Domestic,Local,DOA
+Mae Sot Airport,"Mae Sot, Tak",Tak,Mae Sot,MAQ,VTPM,Domestic,Local,DOA
+Nakhon Phanom Airport,"Nakhon Phanom",Nakhon Phanom,Mueang Nakhon Phanom,KOP,VTUW,Domestic,Local,DOA
+Nakhon Ratchasima Airport,"Nakhon Ratchasima",Nakhon Ratchasima,Chaloem Phra Kiat,NAK,VTUQ,Domestic,Local,DOA
+Nakhon Si Thammarat Airport,"Nakhon Si Thammarat",Nakhon Si Thammarat,Mueang Nakhon Si Thammarat,NST,VTSF,Domestic,Regional,DOA
+Nan Nakhon Airport,"Nan",Nan,Mueang Nan,NNT,VTCN,Domestic,Local,DOA
+Narathiwat Airport,"Narathiwat",Narathiwat,Mueang Narathiwat,NAW,VTSC,Domestic,Local,DOA
+Pai Airport,"Pai",Mae Hong Son,Pai,PYY,VTCI,Domestic,Local,DOA
+Pattani Airport,"Pattani",Pattani,Nong Chik,PAN,VTSK,Domestic,Local,DOA
+Phetchabun Airport,"Phetchabun",Phetchabun,Lom Sak,PHY,VTPB,Domestic,Local,DOA
+Phitsanulok Airport,"Phitsanulok",Phitsanulok,Mueang Phitsanulok,PHS,VTPP,Domestic,Regional,DOA
+Phrae Airport,"Phrae",Phrae,Mueang Phrae,PRH,VTCP,Domestic,Local,DOA
+Ranong Airport,"Ranong",Ranong,Mueang Ranong,UNN,VTSR,Domestic,Local,DOA
+Roi Et Airport,"Roi Et",Roi Et,Thawat Buri,ROI,VTUV,Domestic,Local,DOA
+Sakon Nakhon Airport,"Sakon Nakhon",Sakon Nakhon,Mueang Sakon Nakhon,SNO,VTUI,Domestic,Local,DOA
+Sukhothai Airport,"Sukhothai",Sukhothai,Sawankhalok,THS,VTPO,Domestic,Local,BA
+Tak Airport,"Tak",Tak,Mueang Tak,TKT,VTPT,Domestic,Local,DOA
+Trang Airport,"Trang",Trang,Mueang Trang,TST,VTST,Domestic,Regional,DOA
+Trat Airport,"Trat",Trat,Khao Saming,TDX,VTBO,Domestic,Local,BA
+Ubon Ratchathani Airport,"Ubon Ratchathani",Ubon Ratchathani,Mueang Ubon Ratchathani,UBP,VTUU,Domestic,Regional,DOA

@@ -1,4 +1,11 @@
-﻿departure_airport_name,departure_airport_code,destination_airport_name,destination_airport_code,airline_name,flight_number,departure_time,airline_code
+departure_airport_name,departure_airport_code,destination_airport_name,destination_airport_code,airline_name,flight_number,departure_time,airline_code
+Bangkok Suvarnabhumi Airport,BKK,Buriram Airport,BFV,Thai AirAsia,FD4512,6:10:00 PM,FD
+Bangkok Suvarnabhumi Airport,BKK,Chiang Rai International Airport,CEI,Thai Airways,TG130,9:40:00 AM,TG
+Bangkok Suvarnabhumi Airport,BKK,Chiang Rai International Airport,CEI,Thai Airways,TG132,1:10:00 PM,TG
+Bangkok Suvarnabhumi Airport,BKK,Chiang Rai International Airport,CEI,Thai Airways,TG136,6:20:00 PM,TG
+Bangkok Suvarnabhumi Airport,BKK,Chiang Rai International Airport,CEI,Thai Vietjet Air,VZ130,7:55:00 AM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Chiang Rai International Airport,CEI,Thai Vietjet Air,VZ132,2:55:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Chiang Rai International Airport,CEI,Thai Vietjet Air,VZ134,7:25:00 PM,VZ
 Bangkok Suvarnabhumi Airport,BKK,Chiang Mai International Airport,CNX,Bangkok Airways,PG215,9:20:00 AM,PG
 Bangkok Suvarnabhumi Airport,BKK,Chiang Mai International Airport,CNX,Bangkok Airways,PG217,1:45:00 PM,PG
 Bangkok Suvarnabhumi Airport,BKK,Chiang Mai International Airport,CNX,Bangkok Airways,PG219,7:10:00 PM,PG
@@ -21,60 +28,22 @@ Bangkok Suvarnabhumi Airport,BKK,Chiang Mai International Airport,CNX,Thai AirAs
 Bangkok Suvarnabhumi Airport,BKK,Chiang Mai International Airport,CNX,Thai AirAsia,FD9162,2:50:00 PM,FD
 Bangkok Suvarnabhumi Airport,BKK,Chiang Mai International Airport,CNX,Thai Vietjet Air,VZ2104,11:25:00 PM,VZ
 Bangkok Suvarnabhumi Airport,BKK,Chiang Mai International Airport,CNX,Thai Vietjet Air,VZ2106,8:25:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Lampang Airport,LPT,Bangkok Airways,PG203,9:50:00 AM,PG
-Bangkok Suvarnabhumi Airport,BKK,Lampang Airport,LPT,Bangkok Airways,PG205,6:00:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Sukhothai Airport,THS,Bangkok Airways,PG211,8:20:00 AM,PG
-Bangkok Suvarnabhumi Airport,BKK,Sukhothai Airport,THS,Bangkok Airways,PG213,5:20:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Chiang Rai International Airport,CEI,Thai Airways,TG130,9:40:00 AM,TG
-Bangkok Suvarnabhumi Airport,BKK,Chiang Rai International Airport,CEI,Thai Airways,TG132,1:10:00 PM,TG
-Bangkok Suvarnabhumi Airport,BKK,Chiang Rai International Airport,CEI,Thai Airways,TG136,6:20:00 PM,TG
-Bangkok Suvarnabhumi Airport,BKK,Chiang Rai International Airport,CEI,Thai Vietjet Air,VZ130,7:55:00 AM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Chiang Rai International Airport,CEI,Thai Vietjet Air,VZ132,2:55:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Chiang Rai International Airport,CEI,Thai Vietjet Air,VZ134,7:25:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Udon Thani International Airport,UTH,Thai Airways,TG2,8:10:00 AM,TG
-Bangkok Suvarnabhumi Airport,BKK,Udon Thani International Airport,UTH,Thai Airways,TG4,1:25:00 PM,TG
-Bangkok Suvarnabhumi Airport,BKK,Udon Thani International Airport,UTH,Thai Airways,TG8,8:55:00 PM,TG
-Bangkok Suvarnabhumi Airport,BKK,Udon Thani International Airport,UTH,Thai Vietjet Air,VZ200,9:45:00 AM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Udon Thani International Airport,UTH,Thai Vietjet Air,VZ202,4:40:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Udon Thani International Airport,UTH,Thai Vietjet Air,VZ204,2:25:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Udon Thani International Airport,UTH,Thai AirAsia,FD4352,7:50:00 PM,FD
-Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai Airways,TG40,8:00:00 AM,TG
-Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai Airways,TG42,11:35:00 AM,TG
-Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai Airways,TG44,3:10:00 PM,TG
-Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai Airways,TG46,6:35:00 PM,TG
-Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai Vietjet Air,VZ210,8:10:00 AM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai Vietjet Air,VZ214,7:00:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai AirAsia,FD4501,12:35:00 PM,FD
-Bangkok Suvarnabhumi Airport,BKK,Buriram Airport,BFV,Thai AirAsia,FD4512,6:10:00 PM,FD
-Bangkok Suvarnabhumi Airport,BKK,Ubon Ratchathani Airport,UBP,Thai Airways,TG20,8:15:00 AM,TG
-Bangkok Suvarnabhumi Airport,BKK,Ubon Ratchathani Airport,UBP,Thai Airways,TG28,5:10:00 PM,TG
-Bangkok Suvarnabhumi Airport,BKK,Ubon Ratchathani Airport,UBP,Thai Vietjet Air,VZ220,12:30:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Ubon Ratchathani Airport,UBP,Thai Vietjet Air,VZ224,4:00:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Trat Airport,TDX,Bangkok Airways,PG305,12:40:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Trat Airport,TDX,Bangkok Airways,PG307,5:15:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG101,7:20:00 AM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG105,7:35:00 AM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG107,8:15:00 AM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG115,10:45:00 AM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG121,9:00:00 AM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG123,9:20:00 AM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG125,10:10:00 AM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG127,12:15:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG129,11:05:00 AM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG133,12:45:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG135,1:45:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG145,2:45:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG147,3:10:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG151,3:45:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG165,4:35:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG169,5:45:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG171,4:50:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG181,6:30:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG183,8:30:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG193,9:35:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Surat Thani Airport,URT,Thai Vietjet Air,VZ350,10:45:00 AM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Surat Thani Airport,URT,Thai Vietjet Air,VZ352,6:20:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Surat Thani Airport,URT,Thai Vietjet Air,VZ2350,2:15:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Airways,TG259,8:25:00 AM,TG
+Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Airways,TG263,2:00:00 PM,TG
+Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Airways,TG267,8:00:00 PM,TG
+Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Vietjet Air,VZ320,8:35:00 AM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Vietjet Air,VZ324,12:30:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Vietjet Air,VZ328,9:15:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai AirAsia,FD4202,8:50:00 AM,FD
+Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai AirAsia,FD4204,5:40:00 PM,FD
+Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Airways,TG260,10:35:00 AM,TG
+Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Airways,TG264,4:15:00 PM,TG
+Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Airways,TG268,10:15:00 PM,TG
+Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Vietjet Air,VZ321,10:35:00 AM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Vietjet Air,VZ325,2:35:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Vietjet Air,VZ329,11:20:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai AirAsia,FD4203,10:55:00 AM,FD
+Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai AirAsia,FD4205,7:50:00 PM,FD
 Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Bangkok Airways,PG271,9:35:00 AM,PG
 Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Bangkok Airways,PG273,2:05:00 PM,PG
 Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Bangkok Airways,PG275,12:10:00 PM,PG
@@ -101,6 +70,33 @@ Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai AirAsia,F
 Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai AirAsia,FD4124,9:30:00 AM,FD
 Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai AirAsia,FD4419,9:45:00 PM,FD
 Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Vietjet Air,VZ2300,2:55:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Bangkok Airways,PG270,9:10:00 AM,PG
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Bangkok Airways,PG272,11:55:00 AM,PG
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Bangkok Airways,PG274,4:20:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Bangkok Airways,PG276,2:30:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Bangkok Airways,PG278,8:45:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Bangkok Airways,PG280,11:30:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Airways,TG202,11:10:00 AM,TG
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Airways,TG204,11:50:00 AM,TG
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Airways,TG206,1:15:00 PM,TG
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Airways,TG208,2:35:00 PM,TG
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Airways,TG212,5:40:00 PM,TG
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Airways,TG216,6:25:00 PM,TG
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Airways,TG218,9:15:00 PM,TG
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Airways,TG222,10:55:00 PM,TG
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Airways,TG226,8:55:00 AM,TG
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Vietjet Air,VZ305,2:00:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Vietjet Air,VZ307,7:05:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Vietjet Air,VZ309,11:30:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Vietjet Air,VZ315,10:25:00 AM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Vietjet Air,VZ317,9:00:00 AM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai AirAsia,FD4111,4:05:00 PM,FD
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai AirAsia,FD4113,6:25:00 PM,FD
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai AirAsia,FD4125,11:50:00 AM,FD
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai AirAsia,FD4420,11:40:00 PM,FD
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai AirAsia,FD9161,1:05:00 PM,FD
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Vietjet Air,VZ2301,5:10:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Vietjet Air,VZ2303,3:00:00 PM,VZ
 Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Bangkok Airways,PG261,8:45:00 AM,PG
 Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai Airways,TG241,9:00:00 AM,TG
 Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai Airways,TG249,7:45:00 PM,TG
@@ -109,15 +105,29 @@ Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai Vietjet Air,VZ344,8:10:0
 Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai AirAsia,FD4400,4:10:00 PM,FD
 Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai AirAsia,FD4402,9:30:00 AM,FD
 Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai AirAsia,FD4408,8:15:00 PM,FD
-Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Airways,TG259,8:25:00 AM,TG
-Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Airways,TG263,2:00:00 PM,TG
-Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Airways,TG267,8:00:00 PM,TG
-Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Vietjet Air,VZ320,8:35:00 AM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Vietjet Air,VZ324,12:30:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Vietjet Air,VZ328,9:15:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai AirAsia,FD4202,8:50:00 AM,FD
-Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai AirAsia,FD4204,5:40:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Mae Sot Airport,MAQ,Nok Air,DD196,4:25:00 PM,DD
+Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Bangkok Airways,PG262,11:00:00 AM,PG
+Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai Airways,TG242,10:55:00 AM,TG
+Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai Airways,TG250,9:45:00 PM,TG
+Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai Vietjet Air,VZ341,10:25:00 AM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai Vietjet Air,VZ345,10:05:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai AirAsia,FD4401,6:05:00 PM,FD
+Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai AirAsia,FD4403,11:25:00 AM,FD
+Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai AirAsia,FD4409,10:10:00 PM,FD
+Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai Airways,TG40,8:00:00 AM,TG
+Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai Airways,TG42,11:35:00 AM,TG
+Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai Airways,TG44,3:10:00 PM,TG
+Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai Airways,TG46,6:35:00 PM,TG
+Bangkok Don Mueang International Airport,DMK,Buriram Airport,BFV,Thai AirAsia,FD3520,2:00:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Buriram Airport,BFV,Thai AirAsia,FD3522,9:00:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Chiang Rai International Airport,CEI,Nok Air,DD100,8:10:00 AM,DD
+Bangkok Don Mueang International Airport,DMK,Chiang Rai International Airport,CEI,Nok Air,DD104,6:15:00 PM,DD
+Bangkok Don Mueang International Airport,DMK,Chiang Rai International Airport,CEI,Thai Lion Air,SL532,9:35:00 AM,SL
+Bangkok Don Mueang International Airport,DMK,Chiang Rai International Airport,CEI,Thai Lion Air,SL538,2:00:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Chiang Rai International Airport,CEI,Thai Lion Air,SL544,6:40:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Chiang Rai International Airport,CEI,Thai AirAsia,FD3199,8:05:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Chiang Rai International Airport,CEI,Thai AirAsia,FD3205,9:05:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Chiang Rai International Airport,CEI,Thai AirAsia,FD3209,12:40:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Chumphon Airport,CJM,Thai AirAsia,FD3148,8:30:00 AM,FD
 Bangkok Don Mueang International Airport,DMK,Chiang Mai International Airport,CNX,Nok Air,DD120,7:45:00 AM,DD
 Bangkok Don Mueang International Airport,DMK,Chiang Mai International Airport,CNX,Nok Air,DD124,10:35:00 AM,DD
 Bangkok Don Mueang International Airport,DMK,Chiang Mai International Airport,CNX,Nok Air,DD128,12:55:00 PM,DD
@@ -136,80 +146,20 @@ Bangkok Don Mueang International Airport,DMK,Chiang Mai International Airport,CN
 Bangkok Don Mueang International Airport,DMK,Chiang Mai International Airport,CNX,Thai AirAsia,FD3439,3:55:00 PM,FD
 Bangkok Don Mueang International Airport,DMK,Chiang Mai International Airport,CNX,Thai AirAsia,FD8007,1:15:00 PM,FD
 Bangkok Don Mueang International Airport,DMK,Chiang Mai International Airport,CNX,Thai AirAsia,FD8439,10:05:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Lampang Airport,LPT,Thai AirAsia,FD3923,12:25:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Chiang Rai International Airport,CEI,Nok Air,DD100,8:10:00 AM,DD
-Bangkok Don Mueang International Airport,DMK,Chiang Rai International Airport,CEI,Nok Air,DD104,6:15:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Chiang Rai International Airport,CEI,Thai Lion Air,SL532,9:35:00 AM,SL
-Bangkok Don Mueang International Airport,DMK,Chiang Rai International Airport,CEI,Thai Lion Air,SL538,2:00:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Chiang Rai International Airport,CEI,Thai Lion Air,SL544,6:40:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Chiang Rai International Airport,CEI,Thai AirAsia,FD3199,8:05:00 AM,FD
-Bangkok Don Mueang International Airport,DMK,Chiang Rai International Airport,CEI,Thai AirAsia,FD3205,9:05:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Chiang Rai International Airport,CEI,Thai AirAsia,FD3209,12:40:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Phitsanulok Airport,PHS,Nok Air,DD204,9:35:00 AM,DD
-Bangkok Don Mueang International Airport,DMK,Phitsanulok Airport,PHS,Thai AirAsia,FD3306,3:45:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Phitsanulok Airport,PHS,Thai AirAsia,FD3308,8:00:00 AM,FD
-Bangkok Don Mueang International Airport,DMK,Phitsanulok Airport,PHS,Thai AirAsia,FD3310,6:10:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Nan Airport,NNT,Nok Air,DD172,10:25:00 AM,DD
-Bangkok Don Mueang International Airport,DMK,Nan Airport,NNT,Thai AirAsia,FD3558,7:05:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Loei Airport,LOE,Thai AirAsia,FD3542,11:25:00 AM,FD
-Bangkok Don Mueang International Airport,DMK,Udon Thani International Airport,UTH,Nok Air,DD300,7:10:00 AM,DD
-Bangkok Don Mueang International Airport,DMK,Udon Thani International Airport,UTH,Nok Air,DD314,5:10:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Udon Thani International Airport,UTH,Thai Lion Air,SL604,12:25:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Udon Thani International Airport,UTH,Thai Lion Air,SL610,7:15:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Udon Thani International Airport,UTH,Thai AirAsia,FD3350,8:15:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Udon Thani International Airport,UTH,Thai AirAsia,FD3354,9:10:00 AM,FD
-Bangkok Don Mueang International Airport,DMK,Udon Thani International Airport,UTH,Thai AirAsia,FD3358,1:35:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Khon Kaen Airport,KKC,Thai Lion Air,SL644,11:50:00 AM,SL
-Bangkok Don Mueang International Airport,DMK,Khon Kaen Airport,KKC,Thai Lion Air,SL646,4:50:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Khon Kaen Airport,KKC,Thai AirAsia,FD3254,11:20:00 AM,FD
-Bangkok Don Mueang International Airport,DMK,Khon Kaen Airport,KKC,Thai AirAsia,FD3258,8:00:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Sakon Nakhon Airport,SNO,Nok Air,DD360,7:15:00 AM,DD
-Bangkok Don Mueang International Airport,DMK,Sakon Nakhon Airport,SNO,Nok Air,DD364,2:45:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Sakon Nakhon Airport,SNO,Thai AirAsia,FD3510,8:40:00 AM,FD
-Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai Lion Air,SL670,8:55:00 AM,SL
-Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai Lion Air,SL674,6:45:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai AirAsia,FD3342,7:15:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai AirAsia,FD3396,4:20:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai AirAsia,FD3398,9:10:00 AM,FD
-Bangkok Don Mueang International Airport,DMK,Roi Et Airport,ROI,Thai AirAsia,FD3562,7:20:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Roi Et Airport,ROI,Thai AirAsia,FD3564,12:00:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Buriram Airport,BFV,Thai AirAsia,FD3520,2:00:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Buriram Airport,BFV,Thai AirAsia,FD3522,9:00:00 AM,FD
-Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Nok Air,DD322,7:15:00 AM,DD
-Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Nok Air,DD324,1:55:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Nok Air,DD328,7:30:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Thai Lion Air,SL620,8:55:00 AM,SL
-Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Thai Lion Air,SL628,3:45:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Thai AirAsia,FD3370,8:10:00 AM,FD
-Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Thai AirAsia,FD3372,7:05:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Thai AirAsia,FD3374,4:30:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Chumphon Airport,CJM,Thai AirAsia,FD3148,8:30:00 AM,FD
-Bangkok Don Mueang International Airport,DMK,Ranong Airport,UNN,Thai AirAsia,FD3140,12:55:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Koh Samui Airport,USM,Bangkok Airways,PG451,10:35:00 AM,PG
-Bangkok Don Mueang International Airport,DMK,Koh Samui Airport,USM,Bangkok Airways,PG453,2:55:00 PM,PG
-Bangkok Don Mueang International Airport,DMK,Koh Samui Airport,USM,Bangkok Airways,PG455,7:45:00 PM,PG
-Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Nok Air,DD574,2:35:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai Lion Air,SL734,8:40:00 AM,SL
-Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai Lion Air,SL736,1:40:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai Lion Air,SL740,3:55:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai Lion Air,SL746,6:00:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai AirAsia,FD3237,11:05:00 AM,FD
-Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai AirAsia,FD3239,12:45:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai AirAsia,FD3331,5:30:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Nok Air,DD550,7:20:00 AM,DD
-Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Nok Air,DD556,8:30:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL782,8:20:00 AM,SL
-Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL784,12:50:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL786,3:00:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL788,4:00:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL792,8:00:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai AirAsia,FD3182,7:40:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai AirAsia,FD3184,1:00:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Nok Air,DD542,1:00:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Thai Lion Air,SL806,11:05:00 AM,SL
-Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Thai Lion Air,SL812,5:50:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Thai AirAsia,FD3212,11:55:00 AM,FD
-Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Thai AirAsia,FD3227,6:50:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Nok Air,DD506,7:10:00 PM,DD
+Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai Lion Air,SL702,7:45:00 AM,SL
+Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai Lion Air,SL704,10:05:00 AM,SL
+Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai Lion Air,SL706,11:55:00 AM,SL
+Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai Lion Air,SL708,12:50:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai Lion Air,SL710,2:00:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai Lion Air,SL714,4:25:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai Lion Air,SL716,7:50:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai Lion Air,SL718,6:35:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai Lion Air,SL724,9:20:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai AirAsia,FD3112,9:30:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai AirAsia,FD3114,5:05:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai AirAsia,FD3116,10:15:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai AirAsia,FD3118,11:50:00 AM,FD
 Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Nok Air,DD522,11:05:00 AM,DD
 Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Nok Air,DD528,6:15:00 PM,DD
 Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai Lion Air,SL752,9:10:00 AM,SL
@@ -227,27 +177,77 @@ Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Th
 Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai AirAsia,FD3031,9:25:00 PM,FD
 Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai AirAsia,FD3037,11:10:00 AM,FD
 Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai AirAsia,FD3091,2:30:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Trang Airport,TST,Nok Air,DD592,12:50:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Trang Airport,TST,Thai Lion Air,SL824,9:40:00 AM,SL
-Bangkok Don Mueang International Airport,DMK,Trang Airport,TST,Thai Lion Air,SL826,4:45:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Trang Airport,TST,Thai AirAsia,FD3241,9:20:00 AM,FD
-Bangkok Don Mueang International Airport,DMK,Trang Airport,TST,Thai AirAsia,FD3245,6:05:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Nok Air,DD506,7:10:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai Lion Air,SL702,7:45:00 AM,SL
-Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai Lion Air,SL704,10:05:00 AM,SL
-Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai Lion Air,SL706,11:55:00 AM,SL
-Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai Lion Air,SL708,12:50:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai Lion Air,SL710,2:00:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai Lion Air,SL714,4:25:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai Lion Air,SL716,7:50:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai Lion Air,SL718,6:35:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai Lion Air,SL724,9:20:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai AirAsia,FD3112,9:30:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai AirAsia,FD3114,5:05:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai AirAsia,FD3116,10:15:00 AM,FD
-Bangkok Don Mueang International Airport,DMK,Hat Yai International Airport,HDY,Thai AirAsia,FD3118,11:50:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Nok Air,DD523,1:05:00 PM,DD
+Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai Lion Air,SL753,11:15:00 AM,SL
+Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai Lion Air,SL755,1:30:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai Lion Air,SL757,3:55:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai Lion Air,SL759,12:40:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai Lion Air,SL761,8:05:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai Lion Air,SL763,9:30:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai Lion Air,SL767,6:15:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai AirAsia,FD3002,9:40:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai AirAsia,FD3026,2:35:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai AirAsia,FD3028,9:10:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai AirAsia,FD3032,11:40:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai AirAsia,FD3092,4:30:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Nok Air,DD542,1:00:00 PM,DD
+Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Thai Lion Air,SL806,11:05:00 AM,SL
+Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Thai Lion Air,SL812,5:50:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Thai AirAsia,FD3212,11:55:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Thai AirAsia,FD3227,6:50:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Nok Air,DD543,2:55:00 PM,DD
+Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Thai Lion Air,SL807,1:10:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Thai Lion Air,SL813,7:50:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Thai AirAsia,FD3211,1:55:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Thai AirAsia,FD3228,8:50:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Khon Kaen Airport,KKC,Thai Lion Air,SL644,11:50:00 AM,SL
+Bangkok Don Mueang International Airport,DMK,Khon Kaen Airport,KKC,Thai Lion Air,SL646,4:50:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Khon Kaen Airport,KKC,Thai AirAsia,FD3254,11:20:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Khon Kaen Airport,KKC,Thai AirAsia,FD3258,8:00:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Khon Kaen Airport,KKC,Thai Lion Air,SL645,1:40:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Khon Kaen Airport,KKC,Thai Lion Air,SL647,6:40:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Khon Kaen Airport,KKC,Thai AirAsia,FD3255,12:50:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Khon Kaen Airport,KKC,Thai AirAsia,FD3259,9:30:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Khon Kaen Airport,KKC,Thai AirAsia,FD3261,5:15:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai Lion Air,SL670,8:55:00 AM,SL
+Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai Lion Air,SL674,6:45:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai AirAsia,FD3342,7:15:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai AirAsia,FD3396,4:20:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai AirAsia,FD3398,9:10:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai Lion Air,SL671,11:00:00 AM,SL
+Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai Lion Air,SL675,8:55:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai AirAsia,FD3343,8:55:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai AirAsia,FD3397,6:00:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai AirAsia,FD3399,10:50:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Loei Airport,LOE,Thai AirAsia,FD3542,11:25:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Loei Airport,LOE,Thai AirAsia,FD3543,12:55:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Lampang Airport,LPT,Thai AirAsia,FD3923,12:25:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Lampang Airport,LPT,Thai AirAsia,FD3924,2:05:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Mae Sot Airport,MAQ,Nok Air,DD196,4:25:00 PM,DD
+Bangkok Don Mueang International Airport,DMK,Mae Sot Airport,MAQ,Nok Air,DD197,6:10:00 PM,DD
 Bangkok Don Mueang International Airport,DMK,Narathiwat Airport,NAW,Thai AirAsia,FD3130,12:00:00 PM,FD
 Bangkok Don Mueang International Airport,DMK,Narathiwat Airport,NAW,Thai AirAsia,FD3134,2:50:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Narathiwat Airport,NAW,Thai AirAsia,FD3131,2:00:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Nan Airport,NNT,Nok Air,DD172,10:25:00 AM,DD
+Bangkok Don Mueang International Airport,DMK,Nan Airport,NNT,Thai AirAsia,FD3558,7:05:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Nan Airport,NNT,Nok Air,DD173,12:05:00 PM,DD
+Bangkok Don Mueang International Airport,DMK,Nan Airport,NNT,Thai AirAsia,FD3559,8:45:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Nok Air,DD550,7:20:00 AM,DD
+Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Nok Air,DD556,8:30:00 PM,DD
+Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL782,8:20:00 AM,SL
+Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL784,12:50:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL786,3:00:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL788,4:00:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL792,8:00:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai AirAsia,FD3182,7:40:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai AirAsia,FD3184,1:00:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Nok Air,DD551,9:05:00 AM,DD
+Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Nok Air,DD557,10:20:00 PM,DD
+Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL783,10:20:00 AM,SL
+Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL785,2:50:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL787,5:00:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL789,6:00:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL793,10:00:00 PM,SL
 Chiang Mai International Airport,CNX,Bangkok Suvarnabhumi Airport,BKK,Bangkok Airways,PG216,11:35:00 AM,PG
 Chiang Mai International Airport,CNX,Bangkok Suvarnabhumi Airport,BKK,Bangkok Airways,PG220,9:25:00 PM,PG
 Chiang Mai International Airport,CNX,Bangkok Suvarnabhumi Airport,BKK,Bangkok Airways,PG224,1:20:00 PM,PG
@@ -297,50 +297,155 @@ Chiang Rai International Airport,CEI,Bangkok Suvarnabhumi Airport,BKK,Thai Vietj
 Chiang Rai International Airport,CEI,Bangkok Suvarnabhumi Airport,BKK,Thai Vietjet Air,VZ135,9:25:00 PM,VZ
 Chumphon Airport,CJM,Bangkok Don Mueang International Airport,DMK,Thai AirAsia,FD3149,10:00:00 AM,FD
 Hat Yai International Airport,HDY,Phuket International Airport,HKT,Bangkok Airways,PG299,10:15:00 AM,PG
-Bangkok Don Mueang International Airport,DMK,Bangkok Don Mueang International Airport,DMK,Nok Air,DD501,9:50:00 AM,DD
-Bangkok Don Mueang International Airport,DMK,Bangkok Don Mueang International Airport,DMK,Nok Air,DD507,9:10:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Bangkok Don Mueang International Airport,DMK,Nok Air,DD509,11:40:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Bangkok Don Mueang International Airport,DMK,Thai Lion Air,SL703,9:55:00 AM,SL
-Bangkok Don Mueang International Airport,DMK,Bangkok Don Mueang International Airport,DMK,Thai Lion Air,SL705,12:15:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Bangkok Don Mueang International Airport,DMK,Thai Lion Air,SL707,2:05:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Bangkok Don Mueang International Airport,DMK,Thai Lion Air,SL709,3:05:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Bangkok Don Mueang International Airport,DMK,Thai Lion Air,SL711,4:10:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Bangkok Don Mueang International Airport,DMK,Thai Lion Air,SL715,6:35:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Bangkok Don Mueang International Airport,DMK,Thai Lion Air,SL717,10:00:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Bangkok Don Mueang International Airport,DMK,Thai Lion Air,SL719,8:50:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Bangkok Don Mueang International Airport,DMK,Thai Lion Air,SL725,11:50:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Bangkok Don Mueang International Airport,DMK,Thai AirAsia,FD3113,11:40:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Bangkok Don Mueang International Airport,DMK,Thai AirAsia,FD3115,7:10:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Bangkok Don Mueang International Airport,DMK,Thai AirAsia,FD3117,12:15:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Bangkok Don Mueang International Airport,DMK,Thai AirAsia,FD3119,5:10:00 PM,FD
-Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Airways,TG260,10:35:00 AM,TG
-Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Airways,TG264,4:15:00 PM,TG
-Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Airways,TG268,10:15:00 PM,TG
-Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Vietjet Air,VZ321,10:35:00 AM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Vietjet Air,VZ325,2:35:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai Vietjet Air,VZ329,11:20:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai AirAsia,FD4203,10:55:00 AM,FD
-Bangkok Suvarnabhumi Airport,BKK,Hat Yai International Airport,HDY,Thai AirAsia,FD4205,7:50:00 PM,FD
-Udon Thani International Airport,UTH,Hat Yai International Airport,HDY,Thai Lion Air,SL598,3:40:00 PM,SL
-Chiang Mai International Airport,CNX,Hat Yai International Airport,HDY,Thai AirAsia,FD158,1:45:00 PM,FD
-Hua Hin Airport,HHQ,Chiang Mai International Airport,CNX,Thai AirAsia,FD3901,1:25:00 PM,FD
-Khon Kaen Airport,KKC,Chiang Mai International Airport,CNX,Thai AirAsia,FD5501,4:55:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Khon Kaen Airport,KKC,Thai Lion Air,SL645,1:40:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Khon Kaen Airport,KKC,Thai Lion Air,SL647,6:40:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Khon Kaen Airport,KKC,Thai AirAsia,FD3255,12:50:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Khon Kaen Airport,KKC,Thai AirAsia,FD3259,9:30:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Khon Kaen Airport,KKC,Thai AirAsia,FD3261,5:15:00 PM,FD
+Hat Yai International Airport,HDY,Bangkok Don Mueang International Airport,DMK,Nok Air,DD501,9:50:00 AM,DD
+Hat Yai International Airport,HDY,Bangkok Don Mueang International Airport,DMK,Nok Air,DD507,9:10:00 PM,DD
+Hat Yai International Airport,HDY,Bangkok Don Mueang International Airport,DMK,Nok Air,DD509,11:40:00 PM,DD
+Hat Yai International Airport,HDY,Bangkok Don Mueang International Airport,DMK,Thai Lion Air,SL703,9:55:00 AM,SL
+Hat Yai International Airport,HDY,Bangkok Don Mueang International Airport,DMK,Thai Lion Air,SL705,12:15:00 PM,SL
+Hat Yai International Airport,HDY,Bangkok Don Mueang International Airport,DMK,Thai Lion Air,SL707,2:05:00 PM,SL
+Hat Yai International Airport,HDY,Bangkok Don Mueang International Airport,DMK,Thai Lion Air,SL709,3:05:00 PM,SL
+Hat Yai International Airport,HDY,Bangkok Don Mueang International Airport,DMK,Thai Lion Air,SL711,4:10:00 PM,SL
+Hat Yai International Airport,HDY,Bangkok Don Mueang International Airport,DMK,Thai Lion Air,SL715,6:35:00 PM,SL
+Hat Yai International Airport,HDY,Bangkok Don Mueang International Airport,DMK,Thai Lion Air,SL717,10:00:00 PM,SL
+Hat Yai International Airport,HDY,Bangkok Don Mueang International Airport,DMK,Thai Lion Air,SL719,8:50:00 PM,SL
+Hat Yai International Airport,HDY,Bangkok Don Mueang International Airport,DMK,Thai Lion Air,SL725,11:50:00 PM,SL
+Hat Yai International Airport,HDY,Bangkok Don Mueang International Airport,DMK,Thai AirAsia,FD3113,11:40:00 PM,FD
+Hat Yai International Airport,HDY,Bangkok Don Mueang International Airport,DMK,Thai AirAsia,FD3115,7:10:00 PM,FD
+Hat Yai International Airport,HDY,Bangkok Don Mueang International Airport,DMK,Thai AirAsia,FD3117,12:15:00 PM,FD
+Hat Yai International Airport,HDY,Bangkok Don Mueang International Airport,DMK,Thai AirAsia,FD3119,5:10:00 PM,FD
+Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai Vietjet Air,VZ210,8:10:00 AM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai Vietjet Air,VZ214,7:00:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai AirAsia,FD4501,12:35:00 PM,FD
 Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai Airways,TG41,9:35:00 AM,TG
 Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai Airways,TG43,1:15:00 PM,TG
 Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai Airways,TG45,4:50:00 PM,TG
 Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai Airways,TG47,8:05:00 PM,TG
 Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai Vietjet Air,VZ211,9:45:00 AM,VZ
+Udon Thani International Airport,UTH,Hat Yai International Airport,HDY,Thai Lion Air,SL598,3:40:00 PM,SL
+Chiang Mai International Airport,CNX,Hat Yai International Airport,HDY,Thai AirAsia,FD158,1:45:00 PM,FD
+Hua Hin Airport,HHQ,Chiang Mai International Airport,CNX,Thai AirAsia,FD3901,1:25:00 PM,FD
+Khon Kaen Airport,KKC,Chiang Mai International Airport,CNX,Thai AirAsia,FD5501,4:55:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai AirAsia,FD3183,9:25:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai AirAsia,FD3185,2:50:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai AirAsia,FD3189,9:50:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Phitsanulok Airport,PHS,Nok Air,DD204,9:35:00 AM,DD
+Bangkok Don Mueang International Airport,DMK,Phitsanulok Airport,PHS,Thai AirAsia,FD3306,3:45:00 PM,FD
 Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai Vietjet Air,VZ215,8:35:00 PM,VZ
 Bangkok Suvarnabhumi Airport,BKK,Khon Kaen Airport,KKC,Thai AirAsia,FD4502,2:15:00 PM,FD
+Bangkok Suvarnabhumi Airport,BKK,Lampang Airport,LPT,Bangkok Airways,PG203,9:50:00 AM,PG
+Bangkok Suvarnabhumi Airport,BKK,Lampang Airport,LPT,Bangkok Airways,PG205,6:00:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Lampang Airport,LPT,Bangkok Airways,PG204,11:55:00 AM,PG
+Bangkok Suvarnabhumi Airport,BKK,Lampang Airport,LPT,Bangkok Airways,PG206,8:10:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Narathiwat Airport,NAW,Thai AirAsia,FD4253,2:55:00 PM,FD
 Koh Samui Airport,USM,Chiang Mai International Airport,CNX,Bangkok Airways,PG241,10:40:00 AM,PG
-Bangkok Don Mueang International Airport,DMK,Koh Samui Airport,USM,Bangkok Airways,PG450,8:25:00 AM,PG
-Bangkok Don Mueang International Airport,DMK,Koh Samui Airport,USM,Bangkok Airways,PG452,12:45:00 PM,PG
-Bangkok Don Mueang International Airport,DMK,Koh Samui Airport,USM,Bangkok Airways,PG454,5:25:00 PM,PG
+Bangkok Don Mueang International Airport,DMK,Phitsanulok Airport,PHS,Thai AirAsia,FD3308,8:00:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Phitsanulok Airport,PHS,Thai AirAsia,FD3310,6:10:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Phitsanulok Airport,PHS,Nok Air,DD205,11:00:00 AM,DD
+Bangkok Suvarnabhumi Airport,BKK,Trat Airport,TDX,Bangkok Airways,PG305,12:40:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Trat Airport,TDX,Bangkok Airways,PG307,5:15:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Trat Airport,TDX,Bangkok Airways,PG306,2:10:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Trat Airport,TDX,Bangkok Airways,PG308,6:50:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Sukhothai Airport,THS,Bangkok Airways,PG211,8:20:00 AM,PG
+Bangkok Suvarnabhumi Airport,BKK,Sukhothai Airport,THS,Bangkok Airways,PG213,5:20:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Sukhothai Airport,THS,Bangkok Airways,PG212,10:10:00 AM,PG
+Bangkok Suvarnabhumi Airport,BKK,Sukhothai Airport,THS,Bangkok Airways,PG214,7:10:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Ubon Ratchathani Airport,UBP,Thai Airways,TG20,8:15:00 AM,TG
+Bangkok Suvarnabhumi Airport,BKK,Ubon Ratchathani Airport,UBP,Thai Airways,TG28,5:10:00 PM,TG
+Bangkok Suvarnabhumi Airport,BKK,Ubon Ratchathani Airport,UBP,Thai Vietjet Air,VZ220,12:30:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Ubon Ratchathani Airport,UBP,Thai Vietjet Air,VZ224,4:00:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Ubon Ratchathani Airport,UBP,Thai Airways,TG21,10:00:00 AM,TG
+Bangkok Suvarnabhumi Airport,BKK,Ubon Ratchathani Airport,UBP,Thai Airways,TG29,6:55:00 PM,TG
+Bangkok Suvarnabhumi Airport,BKK,Ubon Ratchathani Airport,UBP,Thai Vietjet Air,VZ221,2:10:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Ubon Ratchathani Airport,UBP,Thai Vietjet Air,VZ225,5:45:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Surat Thani Airport,URT,Thai Vietjet Air,VZ350,10:45:00 AM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Surat Thani Airport,URT,Thai Vietjet Air,VZ352,6:20:00 PM,VZ
+Rayong Pattaya U-Tapao International Airport,UTP,Koh Samui Airport,USM,Bangkok Airways,PG293,12:25:00 PM,PG
+Phuket International Airport,HKT,Koh Samui Airport,USM,Bangkok Airways,PG251,9:00:00 AM,PG
+Phuket International Airport,HKT,Koh Samui Airport,USM,Bangkok Airways,PG253,12:25:00 PM,PG
+Phuket International Airport,HKT,Koh Samui Airport,USM,Bangkok Airways,PG255,3:30:00 PM,PG
+Phuket International Airport,HKT,Koh Samui Airport,USM,Bangkok Airways,PG257,6:55:00 PM,PG
+Phuket International Airport,HKT,Koh Samui Airport,USM,Bangkok Airways,PG259,4:25:00 PM,PG
+Phuket International Airport,HKT,Koh Samui Airport,USM,Bangkok Airways,PG405,1:40:00 PM,PG
+Krabi Airport,KBV,Koh Samui Airport,USM,Bangkok Airways,PG265,1:20:00 PM,PG
+Chiang Mai International Airport,CNX,Krabi Airport,KBV,Thai AirAsia,FD3071,10:55:00 AM,FD
+Chiang Mai International Airport,CNX,Krabi Airport,KBV,Thai AirAsia,FD3073,3:00:00 PM,FD
+Chiang Mai International Airport,CNX,Krabi Airport,KBV,Thai AirAsia,FD3075,8:45:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Phitsanulok Airport,PHS,Thai AirAsia,FD3307,5:05:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Phitsanulok Airport,PHS,Thai AirAsia,FD3309,9:25:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Phitsanulok Airport,PHS,Thai AirAsia,FD3311,7:40:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Roi Et Airport,ROI,Thai AirAsia,FD3562,7:20:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Roi Et Airport,ROI,Thai AirAsia,FD3564,12:00:00 PM,FD
+Bangkok Suvarnabhumi Airport,BKK,Surat Thani Airport,URT,Thai Vietjet Air,VZ2350,2:15:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Surat Thani Airport,URT,Thai Vietjet Air,VZ351,12:30:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Surat Thani Airport,URT,Thai Vietjet Air,VZ353,8:05:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG101,7:20:00 AM,PG
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG105,7:35:00 AM,PG
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG107,8:15:00 AM,PG
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG115,10:45:00 AM,PG
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG121,9:00:00 AM,PG
+Koh Samui Airport,USM,Krabi Airport,KBV,Bangkok Airways,PG266,2:50:00 PM,PG
+Lampang Airport,LPT,Mae Hong Son Airport,HGN,Bangkok Airways,PG206,5:55:00 PM,PG
+Bangkok Don Mueang International Airport,DMK,Roi Et Airport,ROI,Thai AirAsia,FD3563,8:50:00 PM,FD
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG123,9:20:00 AM,PG
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG125,10:10:00 AM,PG
+Bangkok Don Mueang International Airport,DMK,Roi Et Airport,ROI,Thai AirAsia,FD3565,1:25:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Sakon Nakhon Airport,SNO,Nok Air,DD360,7:15:00 AM,DD
+Bangkok Don Mueang International Airport,DMK,Sakon Nakhon Airport,SNO,Nok Air,DD364,2:45:00 PM,DD
+Bangkok Don Mueang International Airport,DMK,Sakon Nakhon Airport,SNO,Thai AirAsia,FD3510,8:40:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Sakon Nakhon Airport,SNO,Nok Air,DD361,8:50:00 AM,DD
+Bangkok Don Mueang International Airport,DMK,Sakon Nakhon Airport,SNO,Nok Air,DD365,4:25:00 PM,DD
+Bangkok Don Mueang International Airport,DMK,Sakon Nakhon Airport,SNO,Thai AirAsia,FD3511,10:10:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Trang Airport,TST,Nok Air,DD592,12:50:00 PM,DD
+Bangkok Don Mueang International Airport,DMK,Trang Airport,TST,Thai Lion Air,SL824,9:40:00 AM,SL
+Bangkok Don Mueang International Airport,DMK,Trang Airport,TST,Thai Lion Air,SL826,4:45:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Trang Airport,TST,Thai AirAsia,FD3241,9:20:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Trang Airport,TST,Thai AirAsia,FD3245,6:05:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Trang Airport,TST,Nok Air,DD593,2:50:00 PM,DD
+Bangkok Don Mueang International Airport,DMK,Trang Airport,TST,Thai Lion Air,SL825,11:45:00 AM,SL
+Bangkok Don Mueang International Airport,DMK,Trang Airport,TST,Thai Lion Air,SL827,6:50:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Trang Airport,TST,Thai AirAsia,FD3246,8:00:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Nok Air,DD322,7:15:00 AM,DD
+Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Nok Air,DD324,1:55:00 PM,DD
+Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Nok Air,DD328,7:30:00 PM,DD
+Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Thai Lion Air,SL620,8:55:00 AM,SL
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG127,12:15:00 PM,PG
+Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Thai Lion Air,SL628,3:45:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Thai AirAsia,FD3370,8:10:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Thai AirAsia,FD3372,7:05:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Thai AirAsia,FD3374,4:30:00 PM,FD
+Hat Yai International Airport,HDY,Phuket International Airport,HKT,Bangkok Airways,PG298,8:30:00 AM,PG
+Koh Samui Airport,USM,Phuket International Airport,HKT,Bangkok Airways,PG250,11:55:00 AM,PG
+Koh Samui Airport,USM,Phuket International Airport,HKT,Bangkok Airways,PG252,10:30:00 AM,PG
+Koh Samui Airport,USM,Phuket International Airport,HKT,Bangkok Airways,PG254,1:55:00 PM,PG
+Koh Samui Airport,USM,Phuket International Airport,HKT,Bangkok Airways,PG256,4:55:00 PM,PG
+Koh Samui Airport,USM,Phuket International Airport,HKT,Bangkok Airways,PG402,6:00:00 PM,PG
+Koh Samui Airport,USM,Phuket International Airport,HKT,Bangkok Airways,PG406,3:15:00 PM,PG
+Rayong Pattaya U-Tapao International Airport,UTP,Phuket International Airport,HKT,Bangkok Airways,PG281,2:40:00 PM,PG
+Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Nok Air,DD325,3:30:00 PM,DD
+Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Thai Lion Air,SL629,5:30:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Thai AirAsia,FD3371,9:45:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Thai AirAsia,FD3373,8:40:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Ranong Airport,UNN,Thai AirAsia,FD3140,12:55:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Ranong Airport,UNN,Thai AirAsia,FD3141,2:35:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Nok Air,DD574,2:35:00 PM,DD
+Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai Lion Air,SL734,8:40:00 AM,SL
+Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai Lion Air,SL736,1:40:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai Lion Air,SL740,3:55:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai Lion Air,SL746,6:00:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai AirAsia,FD3237,11:05:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai AirAsia,FD3239,12:45:00 PM,FD
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG129,11:05:00 AM,PG
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG133,12:45:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG135,1:45:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG145,2:45:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG147,3:10:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG151,3:45:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG165,4:35:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG169,5:45:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG171,4:50:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG181,6:30:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG183,8:30:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG193,9:35:00 PM,PG
 Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG102,8:15:00 AM,PG
 Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG104,9:15:00 AM,PG
 Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG106,10:00:00 AM,PG
@@ -356,150 +461,45 @@ Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG170,7:4
 Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG172,6:50:00 PM,PG
 Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG176,8:25:00 PM,PG
 Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG180,8:25:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG182,8:30:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG186,8:45:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG196,10:20:00 PM,PG
-Rayong Pattaya U-Tapao International Airport,UTP,Koh Samui Airport,USM,Bangkok Airways,PG293,12:25:00 PM,PG
-Phuket International Airport,HKT,Koh Samui Airport,USM,Bangkok Airways,PG251,9:00:00 AM,PG
-Phuket International Airport,HKT,Koh Samui Airport,USM,Bangkok Airways,PG253,12:25:00 PM,PG
-Phuket International Airport,HKT,Koh Samui Airport,USM,Bangkok Airways,PG255,3:30:00 PM,PG
-Phuket International Airport,HKT,Koh Samui Airport,USM,Bangkok Airways,PG257,6:55:00 PM,PG
-Phuket International Airport,HKT,Koh Samui Airport,USM,Bangkok Airways,PG259,4:25:00 PM,PG
-Phuket International Airport,HKT,Koh Samui Airport,USM,Bangkok Airways,PG405,1:40:00 PM,PG
-Krabi Airport,KBV,Koh Samui Airport,USM,Bangkok Airways,PG265,1:20:00 PM,PG
-Chiang Mai International Airport,CNX,Krabi Airport,KBV,Thai AirAsia,FD3071,10:55:00 AM,FD
-Chiang Mai International Airport,CNX,Krabi Airport,KBV,Thai AirAsia,FD3073,3:00:00 PM,FD
-Chiang Mai International Airport,CNX,Krabi Airport,KBV,Thai AirAsia,FD3075,8:45:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Nok Air,DD543,2:55:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Thai Lion Air,SL807,1:10:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Thai Lion Air,SL813,7:50:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Thai AirAsia,FD3211,1:55:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Krabi Airport,KBV,Thai AirAsia,FD3228,8:50:00 PM,FD
-Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Bangkok Airways,PG262,11:00:00 AM,PG
-Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai Airways,TG242,10:55:00 AM,TG
-Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai Airways,TG250,9:45:00 PM,TG
-Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai Vietjet Air,VZ341,10:25:00 AM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai Vietjet Air,VZ345,10:05:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai AirAsia,FD4401,6:05:00 PM,FD
-Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai AirAsia,FD4403,11:25:00 AM,FD
-Bangkok Suvarnabhumi Airport,BKK,Krabi Airport,KBV,Thai AirAsia,FD4409,10:10:00 PM,FD
-Koh Samui Airport,USM,Krabi Airport,KBV,Bangkok Airways,PG266,2:50:00 PM,PG
-Lampang Airport,LPT,Mae Hong Son Airport,HGN,Bangkok Airways,PG206,5:55:00 PM,PG
-Bangkok Don Mueang International Airport,DMK,Lampang Airport,LPT,Thai AirAsia,FD3924,2:05:00 PM,FD
-Bangkok Suvarnabhumi Airport,BKK,Lampang Airport,LPT,Bangkok Airways,PG204,11:55:00 AM,PG
-Bangkok Suvarnabhumi Airport,BKK,Lampang Airport,LPT,Bangkok Airways,PG206,8:10:00 PM,PG
-Bangkok Don Mueang International Airport,DMK,Loei Airport,LOE,Thai AirAsia,FD3543,12:55:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Mae Sot Airport,MAQ,Nok Air,DD197,6:10:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai Lion Air,SL671,11:00:00 AM,SL
-Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai Lion Air,SL675,8:55:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai AirAsia,FD3343,8:55:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai AirAsia,FD3397,6:00:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Nakhon Phanom Airport,KOP,Thai AirAsia,FD3399,10:50:00 AM,FD
-Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Nok Air,DD551,9:05:00 AM,DD
-Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Nok Air,DD557,10:20:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL783,10:20:00 AM,SL
-Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL785,2:50:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL787,5:00:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL789,6:00:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai Lion Air,SL793,10:00:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai AirAsia,FD3183,9:25:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai AirAsia,FD3185,2:50:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Nakhon Si Thammarat,NST,Thai AirAsia,FD3189,9:50:00 AM,FD
-Bangkok Don Mueang International Airport,DMK,Nan Airport,NNT,Nok Air,DD173,12:05:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Nan Airport,NNT,Thai AirAsia,FD3559,8:45:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Narathiwat Airport,NAW,Thai AirAsia,FD3131,2:00:00 PM,FD
-Bangkok Suvarnabhumi Airport,BKK,Narathiwat Airport,NAW,Thai AirAsia,FD4253,2:55:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Phitsanulok Airport,PHS,Nok Air,DD205,11:00:00 AM,DD
-Bangkok Don Mueang International Airport,DMK,Phitsanulok Airport,PHS,Thai AirAsia,FD3307,5:05:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Phitsanulok Airport,PHS,Thai AirAsia,FD3309,9:25:00 AM,FD
-Bangkok Don Mueang International Airport,DMK,Phitsanulok Airport,PHS,Thai AirAsia,FD3311,7:40:00 PM,FD
-Hat Yai International Airport,HDY,Phuket International Airport,HKT,Bangkok Airways,PG298,8:30:00 AM,PG
-Koh Samui Airport,USM,Phuket International Airport,HKT,Bangkok Airways,PG250,11:55:00 AM,PG
-Koh Samui Airport,USM,Phuket International Airport,HKT,Bangkok Airways,PG252,10:30:00 AM,PG
-Koh Samui Airport,USM,Phuket International Airport,HKT,Bangkok Airways,PG254,1:55:00 PM,PG
-Koh Samui Airport,USM,Phuket International Airport,HKT,Bangkok Airways,PG256,4:55:00 PM,PG
-Koh Samui Airport,USM,Phuket International Airport,HKT,Bangkok Airways,PG402,6:00:00 PM,PG
-Koh Samui Airport,USM,Phuket International Airport,HKT,Bangkok Airways,PG406,3:15:00 PM,PG
-Rayong Pattaya U-Tapao International Airport,UTP,Phuket International Airport,HKT,Bangkok Airways,PG281,2:40:00 PM,PG
-Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Nok Air,DD523,1:05:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai Lion Air,SL753,11:15:00 AM,SL
-Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai Lion Air,SL755,1:30:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai Lion Air,SL757,3:55:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai Lion Air,SL759,12:40:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai Lion Air,SL761,8:05:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai Lion Air,SL763,9:30:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai Lion Air,SL767,6:15:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai AirAsia,FD3002,9:40:00 AM,FD
-Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai AirAsia,FD3026,2:35:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai AirAsia,FD3028,9:10:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai AirAsia,FD3032,11:40:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Phuket International Airport,HKT,Thai AirAsia,FD3092,4:30:00 PM,FD
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Bangkok Airways,PG270,9:10:00 AM,PG
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Bangkok Airways,PG272,11:55:00 AM,PG
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Bangkok Airways,PG274,4:20:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Bangkok Airways,PG276,2:30:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Bangkok Airways,PG278,8:45:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Bangkok Airways,PG280,11:30:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Airways,TG202,11:10:00 AM,TG
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Airways,TG204,11:50:00 AM,TG
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Airways,TG206,1:15:00 PM,TG
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Airways,TG208,2:35:00 PM,TG
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Airways,TG212,5:40:00 PM,TG
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Airways,TG216,6:25:00 PM,TG
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Airways,TG218,9:15:00 PM,TG
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Airways,TG222,10:55:00 PM,TG
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Airways,TG226,8:55:00 AM,TG
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Vietjet Air,VZ305,2:00:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Vietjet Air,VZ307,7:05:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Vietjet Air,VZ309,11:30:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Vietjet Air,VZ315,10:25:00 AM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Vietjet Air,VZ317,9:00:00 AM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai AirAsia,FD4111,4:05:00 PM,FD
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai AirAsia,FD4113,6:25:00 PM,FD
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai AirAsia,FD4125,11:50:00 AM,FD
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai AirAsia,FD4420,11:40:00 PM,FD
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai AirAsia,FD9161,1:05:00 PM,FD
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Vietjet Air,VZ2301,5:10:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Phuket International Airport,HKT,Thai Vietjet Air,VZ2303,3:00:00 PM,VZ
 Chiang Mai International Airport,CNX,Phuket International Airport,HKT,Thai Vietjet Air,VZ415,10:15:00 AM,VZ
 Chiang Mai International Airport,CNX,Phuket International Airport,HKT,Thai AirAsia,FD3159,3:55:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Ranong Airport,UNN,Thai AirAsia,FD3141,2:35:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai AirAsia,FD3331,5:30:00 PM,FD
 Rayong Pattaya U-Tapao International Airport,UTP,Chiang Mai International Airport,CNX,Thai Lion Air,SL582,4:25:00 PM,SL
 Rayong Pattaya U-Tapao International Airport,UTP,Udon Thani International Airport,UTH,Thai Lion Air,SL589,2:50:00 PM,SL
 Koh Samui Airport,USM,Rayong Pattaya U-Tapao International Airport,UTP,Bangkok Airways,PG294,6:25:00 PM,PG
 Phuket International Airport,HKT,Rayong Pattaya U-Tapao International Airport,UTP,Bangkok Airways,PG282,4:50:00 PM,PG
-Bangkok Don Mueang International Airport,DMK,Roi Et Airport,ROI,Thai AirAsia,FD3563,8:50:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Roi Et Airport,ROI,Thai AirAsia,FD3565,1:25:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Sakon Nakhon Airport,SNO,Nok Air,DD361,8:50:00 AM,DD
-Bangkok Don Mueang International Airport,DMK,Sakon Nakhon Airport,SNO,Nok Air,DD365,4:25:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Sakon Nakhon Airport,SNO,Thai AirAsia,FD3511,10:10:00 AM,FD
-Bangkok Suvarnabhumi Airport,BKK,Sukhothai Airport,THS,Bangkok Airways,PG212,10:10:00 AM,PG
-Bangkok Suvarnabhumi Airport,BKK,Sukhothai Airport,THS,Bangkok Airways,PG214,7:10:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Surat Thani Airport,URT,Thai Vietjet Air,VZ351,12:30:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Surat Thani Airport,URT,Thai Vietjet Air,VZ353,8:05:00 PM,VZ
-Chiang Mai International Airport,CNX,Surat Thani Airport,URT,Thai AirAsia,FD5421,9:30:00 PM,FD
 Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Nok Air,DD575,4:15:00 PM,DD
 Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai Lion Air,SL735,10:40:00 AM,SL
 Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai Lion Air,SL737,3:40:00 PM,SL
 Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai Lion Air,SL741,5:50:00 PM,SL
 Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai Lion Air,SL747,8:00:00 PM,SL
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG182,8:30:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG186,8:45:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Koh Samui Airport,USM,Bangkok Airways,PG196,10:20:00 PM,PG
+Bangkok Suvarnabhumi Airport,BKK,Udon Thani International Airport,UTH,Thai Airways,TG2,8:10:00 AM,TG
+Chiang Mai International Airport,CNX,Surat Thani Airport,URT,Thai AirAsia,FD5421,9:30:00 PM,FD
 Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai AirAsia,FD3238,12:50:00 PM,FD
 Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai AirAsia,FD3240,2:35:00 PM,FD
 Bangkok Don Mueang International Airport,DMK,Surat Thani Airport,URT,Thai AirAsia,FD3332,7:10:00 PM,FD
-Bangkok Don Mueang International Airport,DMK,Trang Airport,TST,Nok Air,DD593,2:50:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Trang Airport,TST,Thai Lion Air,SL825,11:45:00 AM,SL
-Bangkok Don Mueang International Airport,DMK,Trang Airport,TST,Thai Lion Air,SL827,6:50:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Trang Airport,TST,Thai AirAsia,FD3246,8:00:00 PM,FD
-Bangkok Suvarnabhumi Airport,BKK,Trat Airport,TDX,Bangkok Airways,PG306,2:10:00 PM,PG
-Bangkok Suvarnabhumi Airport,BKK,Trat Airport,TDX,Bangkok Airways,PG308,6:50:00 PM,PG
-Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Nok Air,DD325,3:30:00 PM,DD
-Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Thai Lion Air,SL629,5:30:00 PM,SL
-Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Thai AirAsia,FD3371,9:45:00 AM,FD
-Bangkok Don Mueang International Airport,DMK,Ubon Ratchathani Airport,UBP,Thai AirAsia,FD3373,8:40:00 PM,FD
-Bangkok Suvarnabhumi Airport,BKK,Ubon Ratchathani Airport,UBP,Thai Airways,TG21,10:00:00 AM,TG
-Bangkok Suvarnabhumi Airport,BKK,Ubon Ratchathani Airport,UBP,Thai Airways,TG29,6:55:00 PM,TG
-Bangkok Suvarnabhumi Airport,BKK,Ubon Ratchathani Airport,UBP,Thai Vietjet Air,VZ221,2:10:00 PM,VZ
-Bangkok Suvarnabhumi Airport,BKK,Ubon Ratchathani Airport,UBP,Thai Vietjet Air,VZ225,5:45:00 PM,VZ
+Bangkok Don Mueang International Airport,DMK,Koh Samui Airport,USM,Bangkok Airways,PG451,10:35:00 AM,PG
+Bangkok Don Mueang International Airport,DMK,Koh Samui Airport,USM,Bangkok Airways,PG453,2:55:00 PM,PG
+Bangkok Don Mueang International Airport,DMK,Koh Samui Airport,USM,Bangkok Airways,PG455,7:45:00 PM,PG
+Bangkok Don Mueang International Airport,DMK,Koh Samui Airport,USM,Bangkok Airways,PG450,8:25:00 AM,PG
+Bangkok Don Mueang International Airport,DMK,Koh Samui Airport,USM,Bangkok Airways,PG452,12:45:00 PM,PG
+Bangkok Don Mueang International Airport,DMK,Koh Samui Airport,USM,Bangkok Airways,PG454,5:25:00 PM,PG
+Bangkok Don Mueang International Airport,DMK,Udon Thani International Airport,UTH,Nok Air,DD300,7:10:00 AM,DD
+Bangkok Don Mueang International Airport,DMK,Udon Thani International Airport,UTH,Nok Air,DD314,5:10:00 PM,DD
+Bangkok Don Mueang International Airport,DMK,Udon Thani International Airport,UTH,Thai Lion Air,SL604,12:25:00 PM,SL
+Bangkok Suvarnabhumi Airport,BKK,Udon Thani International Airport,UTH,Thai Airways,TG4,1:25:00 PM,TG
+Bangkok Suvarnabhumi Airport,BKK,Udon Thani International Airport,UTH,Thai Airways,TG8,8:55:00 PM,TG
+Bangkok Don Mueang International Airport,DMK,Udon Thani International Airport,UTH,Thai Lion Air,SL610,7:15:00 PM,SL
+Bangkok Don Mueang International Airport,DMK,Udon Thani International Airport,UTH,Thai AirAsia,FD3350,8:15:00 PM,FD
+Bangkok Don Mueang International Airport,DMK,Udon Thani International Airport,UTH,Thai AirAsia,FD3354,9:10:00 AM,FD
+Bangkok Don Mueang International Airport,DMK,Udon Thani International Airport,UTH,Thai AirAsia,FD3358,1:35:00 PM,FD
+Bangkok Suvarnabhumi Airport,BKK,Udon Thani International Airport,UTH,Thai Vietjet Air,VZ200,9:45:00 AM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Udon Thani International Airport,UTH,Thai Vietjet Air,VZ202,4:40:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Udon Thani International Airport,UTH,Thai Vietjet Air,VZ204,2:25:00 PM,VZ
+Bangkok Suvarnabhumi Airport,BKK,Udon Thani International Airport,UTH,Thai AirAsia,FD4352,7:50:00 PM,FD
 Chiang Mai International Airport,CNX,Udon Thani International Airport,UTH,Nok Air,DD703,6:45:00 PM,DD
 Bangkok Don Mueang International Airport,DMK,Udon Thani International Airport,UTH,Nok Air,DD301,8:40:00 AM,DD
 Bangkok Don Mueang International Airport,DMK,Udon Thani International Airport,UTH,Thai Lion Air,SL605,2:10:00 PM,SL
